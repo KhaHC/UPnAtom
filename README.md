@@ -39,7 +39,7 @@ Note: On iOS, transport security has blocked cleartext HTTP (http://) resource l
 * [x] UPnP Version 1 Compliance
 * [x] Ability to archive UPnP objects after initial discovery and persist somewhere via NSCoder/NSCoding
 * [x] OSX 10.14.5+ support
-* [ ] Swift 4.2
+* [x] Swift 4.2
 * [x] In-house implementation of SSDP discovery
 * [x] A/V Profile Feature parity with upnpx library
 * [ ] Documentation (Until then please check out the [example projects](https://github.com/master-nevi/UPnAtom/tree/master/Examples))
